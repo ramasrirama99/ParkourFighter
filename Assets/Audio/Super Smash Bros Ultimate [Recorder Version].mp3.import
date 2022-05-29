@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Super Smash Bros Ultimate [Recorder Version].mp3-80f32ad549fb31fcb495dbc2c4489ec9.mp3str"
+
+[deps]
+
+source_file="res://Assets/Audio/Super Smash Bros Ultimate [Recorder Version].mp3"
+dest_files=[ "res://.import/Super Smash Bros Ultimate [Recorder Version].mp3-80f32ad549fb31fcb495dbc2c4489ec9.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
